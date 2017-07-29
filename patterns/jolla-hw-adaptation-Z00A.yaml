@@ -15,6 +15,8 @@ Requires:
 - droid-config-Z00A-bluez4
 - droid-hal-version-Z00A
 
+- droid-hal-Z00A-detritus
+
 # Hybris packages
 - libhybris-libEGL
 - libhybris-libGLESv2
