@@ -14,4 +14,4 @@
 %define have_modem 1
 
 %define device_target_cpu i486
-%nclude droid-configs-device/droid-configs.inc
+%include droid-configs-device/droid-configs.inc
